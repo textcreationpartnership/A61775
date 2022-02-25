@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange, dreadful, and amazing news from York. Giving a sad and terrible account of God's fearful judgment on one Winam Tendin, near Rippon in the county of York Who, upon his father's death, perswading his aged tender mother to deliver up her estate and goods to him, upon a slight pretence of quarrel, soon after turned her out of doors a begging, threatning those that should relieve her, so that coming almost starved to his house, when he was making a great feast, he caused the victuals to be set away, and drove her out of his gate: with the words she thereupon uttered. And how his food was turned into fierce poisonous serpents, that stung him to death. And many other circumstances attending so dreadful relaation [sic]. A dreadful relation of a prodigious motion of the earth, near Charleville, in the county of Limerick, in Ireland, on the 7th day of June, 1697. ... sinking hills and raising valleys; and by what means it began and ceased its motion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61775</idno>
+            <idno type="STC">Wing S5882A</idno>
+            <idno type="STC">ESTC R222087</idno>
+            <idno type="EEBO-CITATION">99833317</idno>
+            <idno type="PROQUEST">99833317</idno>
+            <idno type="VID">37793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2064:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange, dreadful, and amazing news from York. Giving a sad and terrible account of God's fearful judgment on one Winam Tendin, near Rippon in the county of York Who, upon his father's death, perswading his aged tender mother to deliver up her estate and goods to him, upon a slight pretence of quarrel, soon after turned her out of doors a begging, threatning those that should relieve her, so that coming almost starved to his house, when he was making a great feast, he caused the victuals to be set away, and drove her out of his gate: with the words she thereupon uttered. And how his food was turned into fierce poisonous serpents, that stung him to death. And many other circumstances attending so dreadful relaation [sic]. A dreadful relation of a prodigious motion of the earth, near Charleville, in the county of Limerick, in Ireland, on the 7th day of June, 1697. ... sinking hills and raising valleys; and by what means it began and ceased its motion.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Wilkins, near Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; stained and tightly bound affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tendin, Winam --  Early works to 1800.</term>
+               <term>Earthquakes --  Ireland --  Early works to 1800.</term>
+               <term>God --  Wrath --  Early works to 1800.</term>
+               <term>Judgement of God --  Early works to 1800.</term>
+               <term>Parent and child --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37793:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>Strange Dreadful, and Amazing News from York.</p>
+            <p>Giving a Sad and Terrible Account OF GOD's fearful Judgment ON ONE <hi>WINAM TENDIN,</hi> Near <hi>Rippon</hi> in the County of <hi>YORK.</hi>
+            </p>
+            <p>Who, upon his Father's Death, perſwading his aged tender Mother to deliver up her Eſtate and Goods to him, upon a ſlight Pretence of Quarrel, ſoon after turn<g ref="char:EOLhyphen"/>ed her out of Doors a Begging, threatning thoſe that ſhould Relieve her, ſo that coming almoſt ſtarved to his Houſe, when he was making a great Feaſt, he cauſed the Victuals to be ſet away, and drove her out of his Gate: With the Words ſhe thereupon cuttered. And how his Food was turned into fierce poiſonous Serpents, that Stung him to Death. And many other Circum<g ref="char:EOLhyphen"/>ſtances attending ſo dreadful Relaation.</p>
+            <p>A Dreadful RELATION Of a Prodigious Motion of the Earth, Near <hi>Charleville,</hi> in the County of <hi>Limerick,</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> on the 7th Day of <hi>June,</hi> 1697. carrying with it abundance of <hi>Acres of Land,</hi> and a <hi>Bog of three Miies in lenth,</hi> laying <hi>Paſture land</hi> on that which was <hi>Meadow,</hi> ſinking <hi>Hills</hi> and raiſing <hi>Valleyes;</hi> and by what Means it began and ceaſed its Motion.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Wilkins,</hi> near Fleet-ſtreet, 1607.</p>
+            <pb facs="tcp:37793:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:37793:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:37793:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>Strange, Dreadful, and Amazing News from <hi>York-ſhaire,</hi> &amp;c.</head>
+            <p>NEar <hi>Rippen,</hi> in <hi>York-ſhire,</hi> there lived a Rich Man and his Wife, who, from the Fruits of their Love, had an only Son, whom they brought up with great Care and Ten<g ref="char:EOLhyphen"/>derneſs to to conſiderable Learning; but the Mouther, too indulgent to him, in humour<g ref="char:EOLhyphen"/>ing him upon all accaſions, made him ſome<g ref="char:EOLhyphen"/>what proud, headſtrong, and obſtinate, which much grieved his Father, who now was grown aged, inſomuch that with vexing, and a ſhort Feaver that thereupon enſued, he died, and left, by Will, great Riches to his Wife, charging her not to part with it to her Son, whil'ſt ſhe lived, but only ſupply him as his Neceſſities requiquired: But the good old Man was no ſoones laid in his Grave, but upon the importunity of her dear Son, ſhe forgot, or at leaſt regarded not he had deſired of her.</p>
+            <p>He earneſtly inſinuated to her, that if he were poſſeſſed of what his Father left, he might advance his Fortunes in a Rich Mar<g ref="char:EOLhyphen"/>riage, and that ſhe ſhould nevertheleſs be
+<pb n="3" facs="tcp:37793:3"/>
+               <!-- PDF PAGE 9 -->well maintained; which the tender-hearted credulous <hi>Mother</hi> believing, upon his pitch<g ref="char:EOLhyphen"/>ing on a rich young Widow, was willing to part with what he deſired.</p>
+            <p>To be brief, She made over all ſhe had to him, and thereupon the Marriage was concluded.</p>
+            <p>For a while the Mother lived with them, but not being content with Slights put up<g ref="char:EOLhyphen"/>on her, and her Courſe Uſage, making Complaints to him, and, not finding any Redreſs, ſhe did the like to ſome Neigh<g ref="char:EOLhyphen"/>bours, who ſharply told him of it, and re<g ref="char:EOLhyphen"/>proved him for his Unnaturalneſs to ſo good and tender a <hi>Mother:</hi> To which he made ſome Surly Anſwers, and the ſame Evening, being an exceſſive rainy Night, coming home from ſome of his Pot-Com<g ref="char:EOLhyphen"/>panions, he reproached his <hi>Mother,</hi> for going about to diſparage him, in telling Stories of him to his Neighbours; and, without giving her leave to Reply, or make any Excuſe, violently, and not without ſome Blows, thruſt the aged and feeble Creature out of Doors, ſwearing he would be the Death of her, if ever ſhe came there any more.</p>
+            <p>The poor aged Woman, amazed at this hard Uſage from her graceleſs and unnatu<g ref="char:EOLhyphen"/>ral Son, fell on her Knees, and begged of
+<pb n="4" facs="tcp:37793:4"/>
+               <!-- PDF PAGE 10 -->him, in conſideration of the tender Love ſhe had always born him, and the great things ſhe had done, that he would take compaſſion on her and be reconciled again to her: But he utterly refuſed, ſwearing, That if ſhe would not depart, he would ſhoot her.</p>
+            <p>She ſeeing him thus reſolute, and fearing the worſt, went weeping away to an old Hovel, that ſtood in a neighbouring Field, and there took up her miſerable <hi>Lodging</hi> with the Cattle that were retired thither to ſhelter from the Fury of the ſtormy Night, and ſpent moſt of the Time, till the Morn<g ref="char:EOLhyphen"/>ing came, in <hi>Sighs, Sobs,</hi> and <hi>Tears;</hi> then ſhe went to ſome <hi>Neighbours,</hi> deſiring them to get her Son to receive her into the Houſe a<g ref="char:EOLhyphen"/>gain: But he utterly refuſed it, vowing, with bitter Imprecations, to Arreſt them, if they harboured the <hi>Old Bitch,</hi> as he vilanouſly termed her: So ſhe thereupon was forced to Beg about the Country, and by the Charity of well-diſpoſed People in that manner ſupport<g ref="char:EOLhyphen"/>ed herſelf more than a Year.</p>
+            <p>In the mean while her ungracious Son kept Revelling and Feaſting, not in the leaſt re<g ref="char:EOLhyphen"/>garding her or ſending her any relief; ſo that her Patience being quite tired out with pi<g ref="char:EOLhyphen"/>ning Want, and other Afflictions, one Day hearing there was to be a <hi>great Feast,</hi> and
+<pb n="5" facs="tcp:37793:4"/>
+               <!-- PDF PAGE 10 -->many of the <hi>Neighbours</hi> at her Son's Houſe, ſhe reſolved to go, as hoping, by their means, ſhe might be either Reconciled, or gain pre<g ref="char:EOLhyphen"/>ſent Relief, and about the time juſt as Dinner was on the Table.</p>
+            <p>But the <hi>ungracious Wretch,</hi> hearing her Voice without, cauſed the Diſhes to be co<g ref="char:EOLhyphen"/>vered and carried away into a Cloſet, ſwear<g ref="char:EOLhyphen"/>ing, <hi>Though the Old Jade was come, to diſturb his Jollity, ſhe ſhould get nothing by it;</hi> and, go<g ref="char:EOLhyphen"/>ing to her, ſoon rallied her out of the Houſe: Who departing pitiouſly, <hi>wringing her Hands,</hi> and <hi>ſhedding abundance of Tears,</hi> ſaid, as ſhe went out at the Gate, <hi>O Son, as you have dealt by me, may God, the righteous Judge of all the Earth, reward you.</hi> At this he ſcoffed, and then, returning to his Gueſs, ſaid, <hi>Now we are ſhut of the Old Beldam, that came to di<g ref="char:EOLhyphen"/>ſturb our Mirth, let us make good Chear.</hi> Or<g ref="char:EOLhyphen"/>dering the Servants immediately to bring in the Victuals; who, uncovering three or four of the Diſhes wherein <hi>Chickens, Capons,</hi> &amp;c. had been laid, to their Horror and Amaze<g ref="char:EOLhyphen"/>ment, found ugly venomous Serpents, ſo that they durſt not meddle with the reſt.</p>
+            <p>Their Maſter, wondering at their ſtay, ſent a Maid-ſervant, to bid them make haſte; ſhe <hi>going,</hi> and <hi>ſeeing</hi> ſo ſtrange and ama<g ref="char:EOLhyphen"/>zing
+<pb n="6" facs="tcp:37793:5"/>
+               <!-- PDF PAGE 11 -->a change, ran back to her Maſter in <hi>great affrightment,</hi> almoſt breathleſs, with <hi>abrupt ſtammerings,</hi> told him what had hap<g ref="char:EOLhyphen"/>pened: But he, taking her to be bewiched, or diſtracted, <hi>laughing,</hi> roſe up and ſwore, <hi>That if the Devil was in the Diſhes, yet he would bring them to the Table.</hi> So, coming to lay Hands on and uncover the other Diſhes, the Serpents, with dreadful Hiſſings; leaped furiouſly in his Face, and folded themſelves ſo faſt about his Neck, with their Mouths to his, that in vain crying out, and labour<g ref="char:EOLhyphen"/>ing to diſintangle himſelf, overcome with the Venom of their Stings, he fell down and died miſerably ſwollen, ſo that his Car<g ref="char:EOLhyphen"/>caſe, in a little time burſting, ſent forth ſuch a ſtench, that with much difficulty they were forced to bury him in the dead of the Night; and then the Serpents left the Houſe, and were no more ſeen there.</p>
+            <p>This amazing Accident cauſed a great Noiſe in the Country, bringing <hi>Fear</hi> and <hi>Trembling</hi> on many, who looked on it a Juſt, though Fearful Judgment; upon which the Wiſe run diſtracted, but care being taken of her, was brought again to her Senſes, and allowed her Husband's Mother a Maintain<g ref="char:EOLhyphen"/>ance; but ſhe enjoyed it but a little while, for, through Grief and the Pining Want wherein ſhe had ſuffered, coming, after long abſtinence, to feed plentifully, ſhe died.</p>
+         </div>
+         <div type="part">
+            <pb n="7" facs="tcp:37793:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>Motion of the Earth, Near <hi>Charleville,</hi> in the County of <hi>Limerick,</hi> in <hi>Irland,</hi> &amp;c.</head>
+            <p>ON the 7th Day of <hi>June,</hi> 1697. near <hi>Char<g ref="char:EOLhyphen"/>leville,</hi> in the County of <hi>Limerick</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> a <hi>great Rumbling,</hi> or <hi>faint Noiſe,</hi> was heard in the Earth, much like unto the <hi>Sound of Thunder</hi> near ſpent, or <hi>Groans of Men;</hi> for a little ſpace the Air was ſomewhat troubled with little <hi>whisking Winds,</hi> ſeeming to meet contrary ways: And, ſoon after that, to the greater Terror and Affrightment of a great number of Spectators a more wonderful thing happened; for in a <hi>Bog,</hi> about three Miles long, ſtretching North and South, the Earth began to move, <hi>viz.</hi> 16 Acres of Meadow and Paſtureland that lay in the ſide of the <hi>Bog,</hi> and ſeparated by an extraordinary large Ditch, and 80 Acres of other Land on the further ſide adjoyning to it; and a Riſing, or little the middle of the <hi>Bog</hi> hereupon ſunk fiat.</p>
+            <p>This Motion began about Seven of the Clock in the Evening, fluctuating in its motion like Waves, the Paſture land riſing very high, ſo that it over-run the Ground beneath it, and moved upon its ſurface, rowling on withgreat puſhing violence, till it had covered the Mead<g ref="char:EOLhyphen"/>ow of about 9 Acres, and is held to remain upon it 16 Foot deep.</p>
+            <p>In the Motion of this Earth it drew after
+<pb n="8" facs="tcp:37793:6"/>
+               <!-- PDF PAGE 12 -->it the Body of the <hi>Bog,</hi> part of it lying on the place where the Paſture-land that moved out of its place had before ſtood; and ſo for ma<g ref="char:EOLhyphen"/>ny Hours travelling on it, continued ſo to do, till, as it were, weary with journeying, it ſtood ſtill, leaving great Breaches behind it, and Spewings of Water that caſt up noiſom Vapours: And ſo it continues at preſent, to the great wonderment of thoſe that paſs by, or come many Miles o be Eye-witneſſes oft ſo ſtrange a thing; wherein appears the wonerd<g ref="char:EOLhyphen"/>ful Power of Almighty God, who can do what<g ref="char:EOLhyphen"/>oever pleaſes him in Heaven and Earth, a<g ref="char:EOLhyphen"/>gainſt whom no Power nor Strength is able to ſtand, this mighty Maſs of Earth, being, in compariſon, as an Attom before that Breath, at whoſe blaſt the Foundations of the whole Earth are ſhaken.</p>
+            <p>This is teſtified by Mr. <hi>Nicholleſs Harris</hi> who was an eye-witneſs to it: And the <hi>Or<g ref="char:EOLhyphen"/>iginal</hi> Letter that came from <hi>Ireland,</hi> may be ſeen at the Singe of the <hi>Sive,</hi> in the <hi>Minories</hi> a Seed-ſhop, for farther ſatisfaction.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed according to Order.</p>
+            <pb facs="tcp:37793:6"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </back>
+   </text>
+</TEI>
